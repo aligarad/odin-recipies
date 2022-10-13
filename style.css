@@ -2,7 +2,8 @@ h1{
     font-family:serif;
     text-align: center;
     font-size: 70px;
-    color:aquamarine;
+    color:white;
+    
 
 }
 
@@ -10,13 +11,18 @@ h1{
     color:cornsilk;
     font-size: 30px;
 }
-/* 
 .navigation{
-    background-color: aquamarine;
-    height:100px;
-    width:100%;
+    background-color: black;
+     border-radius:25px ; 
+     position: fixed; 
+     padding-left: 350px;
+     padding-right: 350px;
+} 
 
-} */
+.image{
+    padding-top: 200px;
+    padding-left:100px
+}
 
 
 
