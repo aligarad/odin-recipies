@@ -1,27 +1,39 @@
 h1{
     font-family:serif;
-    text-align: center;
     font-size: 70px;
-    color:white;
-    
-
+    color:#fff;
 }
 
-.a{
-    color:cornsilk;
-    font-size: 30px;
-}
-.navigation{
+.header{
     background-color: black;
-     border-radius:25px ; 
-     position: fixed; 
-     padding-left: 350px;
-     padding-right: 350px;
-} 
+    border:1px solid black;
+    display:flex;
+    justify-content: space-around;
+    border-radius: 25px;
+    
+}
+
+.mac{
+    margin-top: 100px;
+}
+    
+.garlic{
+    margin-top: 100px;
+}
+
 
 .image{
     padding-top: 200px;
-    padding-left:100px
+    padding-left:100px;
+    padding-bottom:50px;
+}
+
+.image2{
+    padding-top:50px ;
+}
+
+.para1{
+
 }
 
 
