@@ -1,39 +1,39 @@
 h1{
     font-family:serif;
     font-size: 70px;
-    color:#fff;
+    color:whitesmoke;
 }
 
 .header{
-    background-color: black;
-    border:1px solid black;
+    background-color: cadetblue;
+    
     display:flex;
     justify-content: space-around;
-    border-radius: 25px;
-    
-}
-
-.mac{
-    margin-top: 100px;
-}
-    
-.garlic{
-    margin-top: 100px;
-}
-
-
-.image{
-    padding-top: 200px;
-    padding-left:100px;
-    padding-bottom:50px;
-}
-
-.image2{
-    padding-top:50px ;
+    align-items: center;
 }
 
 .para1{
+    height:300px;
+    background-color: azure;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
 
+
+
+.image{
+    background-color: cadetblue;
+    height:1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+button{
+    border-radius: 15px;
+    background-color: lightblue;
 }
 
 
